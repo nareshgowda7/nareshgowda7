@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Naresh Gowda 👋
 
-<!--
-**nareshgowda7/nareshgowda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student focused on Cybersecurity, Python automation, and practical security labs.
 
-Here are some ideas to get you started:
+Currently preparing for Master's studies in Germany while building hands-on cybersecurity and programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Python
+- Git & GitHub
+- Linux Basics
+- Networking Fundamentals
+- Cybersecurity Fundamentals
+- Web Security Basics
+
+---
+
+## Currently Learning
+- TryHackMe Labs
+- Web Application Security
+- Python Automation
+- Linux Administration
+
+---
+
+## Projects
+- Sign Language Detection Tool
+- Python Chatbot
+- Internship Auto-Apply Bot
+- Security Learning Labs
+
+---
+
+## Certifications
+- IBM Machine Learning
+- Cybersecurity Analyst Job Simulation (Forage)
+- Tata GenAI Data Analytics Simulation
+- BCG GenAI Simulation
+
+---
+
+## Goals for 2026
+- Build strong cybersecurity fundamentals
+- Create security-focused projects
+- Prepare for cybersecurity Master's in Germany
+- Gain internship experience
+
+---
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/naresh-gowda-a
+- Email: nareshgowdaa@gmail.com
